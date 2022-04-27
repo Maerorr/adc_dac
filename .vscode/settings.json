@@ -1,0 +1,6 @@
+{
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
