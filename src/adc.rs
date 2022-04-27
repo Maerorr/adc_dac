@@ -110,7 +110,7 @@ pub fn adc(path: &str) {
             .next()
             .and_then(|result| result.ok())
             .map(|byte| byte as i32);
-        if input.unwrap() == 13 {
+        if input.unwrap() == 10 {
             break;
         }
     }
